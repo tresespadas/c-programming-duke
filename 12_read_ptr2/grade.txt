@@ -1,0 +1,11 @@
+Grading at Tue 05 Mar 2024 08:37:02 AM UTC
+Attempting to compile test.c
+gcc -std=gnu99 -pedantic -Wall -O3   -c -o test.o test.c
+gcc -o test -O3 test.o
+gcc -std=gnu99 -pedantic -Wall -ggdb3 -DDEBUG -c -o test.dbg.o test.c
+gcc -o test-debug -ggdb3 test.dbg.o
+compiled
+Your file matched the expected output
+Your output matched what we expected
+
+Overall Grade: PASSED
