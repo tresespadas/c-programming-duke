@@ -1,0 +1,64 @@
+Grading at Wed 13 Mar 2024 05:13:05 PM UTC
+**Testing broken implementation 10 **
+-------------------------------------
+
+2 elevado a 2 en power da 2
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+-2 elevado a 3 en power da 216
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+2 elevado a 2 en power da 1
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+0 elevado a 4 en power da 1
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+0 elevado a 0 en power da 0
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+-2 elevado a 3 en power da 65528
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+2 elevado a 2 en power da 2
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+1 elevado a 1 en power da 2
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+1 elevado a 1 en power da 3
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+3 elevado a 3 en power da 9
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+1 elevado a 1 en power da 0
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED
